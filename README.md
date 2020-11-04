@@ -15,7 +15,7 @@ press |F1  - Breach|
 |F11       - Sova|
 |F12       - Viper|
 |HOME      - Skye|
-End       - to kill all the on going script
+|End       - to kill all the on going script|
 
 
 press any key after 3-4 sec of that 5sec countdown after found a match
