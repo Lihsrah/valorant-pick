@@ -21,7 +21,5 @@ press |F1  - Breach|
 press any key after 3-4 sec of that 5sec countdown after found a match
 
 
-Follow me on ign_harry on insta for any query
-
 
 
